@@ -1,4 +1,4 @@
-# tinder_review_sentiment_analysis
+# Tinder Review for Sentiment Analysis
 
 ## Stroy
 
